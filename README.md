@@ -32,7 +32,7 @@ The following flags were applied to each review:
 - Top businesses with flagged reviews identified  
 - Clean vs. flagged review breakdown visualized in bar chart
 
-![Project Screenshot](screenshot.png)
+![Project Screenshot](sample_output.png)
 
 ## Files in This Repo
 
