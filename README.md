@@ -40,4 +40,7 @@ The following flags were applied to each review:
 - `cleaned_reviews_with_flags.csv`: Final dataset with QA columns added
 - `README.md`: This file
 
+## Data Source
+Original review data sourced from a public dataset on [Kaggle](https://www.kaggle.com/datasets/denizbilginn/google-maps-restaurant-reviews
+
 
